@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Practic4" parent="Theme.Material3.DayNight">
+    <item name="colorPrimary">@color/greenblue</item>
+    <item name="colorPrimaryDark">@color/purpur</item>
+    <item name="colorAccent">@color/whiteblue</item>
+    </style>
+
+    <style name="ImageBtn" parent="Theme.AppCompat.DayNight">
+        <item name="tint">@color/greenblue</item>
+    </style>
+</resources>
